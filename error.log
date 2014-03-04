@@ -1,0 +1,280 @@
+
+
+Error log timestamp Tuesday 03/04/14 04:12:34 PM
+
+Runtime error: "iniFilename" not understood
+
+MessageNotUnderstood>>defaultAction
+MessageNotUnderstood(Exception)>>activateHandler: <anUndefinedObject> 
+MessageNotUnderstood(Exception)>>handle
+MessageNotUnderstood(Exception)>>signal
+MessageNotUnderstood class>>message: <aMessage> 
+Basic class(Object)>>doesNotUnderstand: <aMessage> 
+Basic class>>showReadOnlyLBasic3IniNotice
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileSystemAccessDenied> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileSystemAccessDenied> 
+ExceptionHandler>>findHandler: <aFileSystemAccessDenied> 
+FileSystemAccessDenied(Exception)>>activateHandler: <anExceptionHandler> 
+FileSystemAccessDenied(Exception)>>handle
+FileSystemAccessDenied(Exception)>>signal
+FileSystemAccessDenied class(Exception class)>>signal
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <5> 
+File class(FileSystemEntity class)>>osError: <5> 
+File class(Object)>>osError
+File class>>removeFileNamed: <'C:\Program Files (x8...'> 
+File>>remove
+File class>>newFile: <'C:\Program Files (x8...'> in: <aDirectory> 
+File class>>newFile: <'C:\Program Files (x8...'> 
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+Basic class>>saveSetup
+BasicSourceWindow>>addRecentFile: <'C:\Users\Daniel\Docu...'> 
+BasicSourceWindow>>openFileNamed: <'C:\Users\Daniel\Docu...'> 
+Basic class>>start
+[] in SessionModel>>startBasic
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>ensure: <aBlockClosure> 
+SessionModel>>startBasic
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+
+
+Error log timestamp Tuesday 03/04/14 04:12:51 PM
+
+Runtime error: "iniFilename" not understood
+
+MessageNotUnderstood>>defaultAction
+MessageNotUnderstood(Exception)>>activateHandler: <anUndefinedObject> 
+MessageNotUnderstood(Exception)>>handle
+MessageNotUnderstood(Exception)>>signal
+MessageNotUnderstood class>>message: <aMessage> 
+Basic class(Object)>>doesNotUnderstand: <aMessage> 
+Basic class>>showReadOnlyLBasic3IniNotice
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileSystemAccessDenied> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileSystemAccessDenied> 
+ExceptionHandler>>findHandler: <aFileSystemAccessDenied> 
+FileSystemAccessDenied(Exception)>>activateHandler: <anExceptionHandler> 
+FileSystemAccessDenied(Exception)>>handle
+FileSystemAccessDenied(Exception)>>signal
+FileSystemAccessDenied class(Exception class)>>signal
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <5> 
+File class(FileSystemEntity class)>>osError: <5> 
+File class(Object)>>osError
+File class>>removeFileNamed: <'C:\Program Files (x8...'> 
+File>>remove
+File class>>newFile: <'C:\Program Files (x8...'> in: <aDirectory> 
+File class>>newFile: <'C:\Program Files (x8...'> 
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+Basic class>>saveSetup
+BasicSourceWindow>>addRecentFile: <'C:\Users\Daniel\Docu...'> 
+BasicSourceWindow>>openFileNamed: <'C:\Users\Daniel\Docu...'> 
+Basic class>>start
+[] in SessionModel>>startBasic
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>ensure: <aBlockClosure> 
+SessionModel>>startBasic
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+
+
+Error log timestamp Tuesday 03/04/14 04:16:59 PM
+
+Runtime error: "iniFilename" not understood
+
+MessageNotUnderstood>>defaultAction
+MessageNotUnderstood(Exception)>>activateHandler: <anUndefinedObject> 
+MessageNotUnderstood(Exception)>>handle
+MessageNotUnderstood(Exception)>>signal
+MessageNotUnderstood class>>message: <aMessage> 
+Basic class(Object)>>doesNotUnderstand: <aMessage> 
+Basic class>>showReadOnlyLBasic3IniNotice
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileSystemAccessDenied> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileSystemAccessDenied> 
+ExceptionHandler>>findHandler: <aFileSystemAccessDenied> 
+FileSystemAccessDenied(Exception)>>activateHandler: <anExceptionHandler> 
+FileSystemAccessDenied(Exception)>>handle
+FileSystemAccessDenied(Exception)>>signal
+FileSystemAccessDenied class(Exception class)>>signal
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <5> 
+File class(FileSystemEntity class)>>osError: <5> 
+File class(Object)>>osError
+File class>>removeFileNamed: <'C:\Program Files (x8...'> 
+File>>remove
+File class>>newFile: <'C:\Program Files (x8...'> in: <aDirectory> 
+File class>>newFile: <'C:\Program Files (x8...'> 
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+Basic class>>saveSetup
+BasicSourceWindow>>addRecentFile: <'C:\Users\Daniel\Docu...'> 
+BasicSourceWindow>>openFileNamed: <'C:\Users\Daniel\Docu...'> 
+Basic class>>start
+[] in SessionModel>>startBasic
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>ensure: <aBlockClosure> 
+SessionModel>>startBasic
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+
+
+Error log timestamp Tuesday 03/04/14 04:17:58 PM
+
+Runtime error: "iniFilename" not understood
+
+MessageNotUnderstood>>defaultAction
+MessageNotUnderstood(Exception)>>activateHandler: <anUndefinedObject> 
+MessageNotUnderstood(Exception)>>handle
+MessageNotUnderstood(Exception)>>signal
+MessageNotUnderstood class>>message: <aMessage> 
+Basic class(Object)>>doesNotUnderstand: <aMessage> 
+Basic class>>showReadOnlyLBasic3IniNotice
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileSystemAccessDenied> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileSystemAccessDenied> 
+ExceptionHandler>>findHandler: <aFileSystemAccessDenied> 
+FileSystemAccessDenied(Exception)>>activateHandler: <anExceptionHandler> 
+FileSystemAccessDenied(Exception)>>handle
+FileSystemAccessDenied(Exception)>>signal
+FileSystemAccessDenied class(Exception class)>>signal
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <5> 
+File class(FileSystemEntity class)>>osError: <5> 
+File class(Object)>>osError
+File class>>removeFileNamed: <'C:\Program Files (x8...'> 
+File>>remove
+File class>>newFile: <'C:\Program Files (x8...'> in: <aDirectory> 
+File class>>newFile: <'C:\Program Files (x8...'> 
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+Basic class>>saveSetup
+BasicSourceWindow>>addRecentFile: <'C:\Users\Daniel\Docu...'> 
+BasicSourceWindow>>openFileNamed: <'C:\Users\Daniel\Docu...'> 
+Basic class>>start
+[] in SessionModel>>startBasic
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>ensure: <aBlockClosure> 
+SessionModel>>startBasic
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
+
+
+Error log timestamp Tuesday 03/04/14 04:27:23 PM
+
+Runtime error: "iniFilename" not understood
+
+MessageNotUnderstood>>defaultAction
+MessageNotUnderstood(Exception)>>activateHandler: <anUndefinedObject> 
+MessageNotUnderstood(Exception)>>handle
+MessageNotUnderstood(Exception)>>signal
+MessageNotUnderstood class>>message: <aMessage> 
+Basic class(Object)>>doesNotUnderstand: <aMessage> 
+Basic class>>showReadOnlyLBasic3IniNotice
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateResponseBlock: <aBlockClosure> for: <aFileSystemAccessDenied> 
+[] in ExceptionHandler>>handle:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>handle: <aFileSystemAccessDenied> 
+ExceptionHandler>>findHandler: <aFileSystemAccessDenied> 
+FileSystemAccessDenied(Exception)>>activateHandler: <anExceptionHandler> 
+FileSystemAccessDenied(Exception)>>handle
+FileSystemAccessDenied(Exception)>>signal
+FileSystemAccessDenied class(Exception class)>>signal
+HostFileSystemError>>defaultAction
+ExceptionHandler>>findHandler: <aHostFileSystemError> 
+HostFileSystemError(Exception)>>activateHandler: <anExceptionHandler> 
+HostFileSystemError(Exception)>>handle
+HostFileSystemError(Exception)>>signal
+HostFileSystemError class>>signalWith: <5> 
+File class(FileSystemEntity class)>>osError: <5> 
+File class(Object)>>osError
+File class>>removeFileNamed: <'C:\Program Files (x8...'> 
+File>>remove
+File class>>newFile: <'C:\Program Files (x8...'> in: <aDirectory> 
+File class>>newFile: <'C:\Program Files (x8...'> 
+[] in Basic class>>saveSetup
+ExceptionHandler>>evaluateProtectedBlock: <aBlockClosure> 
+[] in ExceptionHandler>>activateDuring:
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>invisibleEnsure: <aBlockClosure> 
+ExceptionHandler>>activateDuring: <aBlockClosure> 
+ExceptionHandler class>>handle: <anError class> with: <aBlockClosure> during: <aBlockClosure> 
+BlockClosure>>on: <anError class> do: <aBlockClosure> 
+Basic class>>saveSetup
+BasicSourceWindow>>addRecentFile: <'C:\Users\Daniel\Docu...'> 
+BasicSourceWindow>>openFileNamed: <'C:\Users\Daniel\Docu...'> 
+Basic class>>start
+[] in SessionModel>>startBasic
+ProtectedFrameMarker(BlockClosure)>>setUnwind: <aBlockClosure> 
+BlockClosure>>ensure: <aBlockClosure> 
+SessionModel>>startBasic
+Message>>perform
+NotificationManager>>empty
+NotificationManager>>runPendingEvents
+NotificationManager>>runEventLoop
