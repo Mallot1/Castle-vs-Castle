@@ -1,6 +1,6 @@
 'Castle vs Castle
 'GameGrape Corporation (C)'2014 www.codingrevolution.blogspot.com
-'UnLIMITed Corporation (C)'2014 www.unlimited.freeware.com
+'UnLIMITed Corporation (C)'2014
 
 NOMAINWIN
 WindowWidth = DisplayWidth
