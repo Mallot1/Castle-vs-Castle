@@ -2,6 +2,8 @@
 'GameGrape Corporation (C)'2014 www.codingrevolution.blogspot.com
 'UnLIMITed Corporation (C)'2014
 
+'log: 
+  'GameGrape Corporation: 3/20/14 *Programmed player into the game
 NOMAINWIN
 WindowWidth = DisplayWidth
 WindowHeight = DisplayHeight
@@ -21,11 +23,20 @@ loadbmp "gbg", "media\gamebackground.bmp" 'we need to draw a game background
 [quit]close #menu:end
 
 [game]
+  loadbmp "player", "sprites\player.bmp"
+  
   open "Castle vs Castle v1.0.0a" for graphics_nsb_nf as #game
   print #game, "trapclose [gameQuit]
+  gosub [setup]
+  print #game, "addsprite player player"
+  print #game, "spritexy player ";playerx;' ";playery
   print #game, "background gbg"
   print #game, "drawsprites"
   wait
   
-  
+[setup]
+  playerx = WindowWidth/3-90 
+  playery = 0
+  return 
+
 [gameQuit]notice "Thank You for playing Castle vs Castle!":close #game:end
