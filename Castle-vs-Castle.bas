@@ -1,5 +1,5 @@
 'Castle vs Castle
-'GameGrape Corporation (C)'2014 www.codingrevolution.blogspot.com
+'GameGrape Corporation (C)'2014 www.gamegrapecorporation.blogspot.com
 'UnLIMITed Corporation (C)'2014
 
 'log: 
